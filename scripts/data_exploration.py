@@ -2,7 +2,7 @@
 import pandas as pd
 
 # Step 2: Load the dataset
-df = pd.read_csv('data/synthetic_fraud_transactions.csv')
+df = pd.read_csv('../data/synthetic_fraud_transactions.csv')
 
 # Step 3: Print the first few rows
 print("First 5 records:")
